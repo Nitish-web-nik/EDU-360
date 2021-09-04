@@ -22,11 +22,7 @@
                     <!-- <div class="menu-items p-3 mx-2"><a href="" >Discussion</a></div> -->
                     <div class="menu-items p-3 mx-2"><a href="about.php" >About Us</a></div>
                     <div class="menu-items p-3 mx-2"><a href="contact.php" >Contact Us</a></div>
-<<<<<<< HEAD
                      <div class="menu-items p-3 mx-2" ><a href="login.php" >Login</a></div> 
-=======
-                    <!-- <div class="menu-items p-3 mx-2" ><a href="login.php" >Login</a></div> -->
->>>>>>> 220e42b9dc5e14323ef03acf28b26d229ba57b25
                 </div>
             </div>
             <div class=" p-2">
