@@ -43,12 +43,12 @@ Welcome to Edu-360, where education meets innovation, and students meet success!
       <td align="center">
         <a href="https://github.com/Sonalanand102">
           <img alt="Sonal Anand" src="https://i.ibb.co/J2vLZXQ/IMG20191115163102.jpg" width="250px" height="300px">
-          <br><sub><b>Sonal Anand</b></sub></a><br>💻 Back-End Specialist
+          <br><sub><b>Sonal Anand</b></sub></a><br>💻 Back-End Colleen
         </td>
       <td align="center">
         <a href="https://github.com/Nitish-web-nik">
           <img alt="Nitish Kumar" src="https://i.ibb.co/D41QvhT/fd32447769e741d188708bcf49eb81d6.jpg" width="250px" height="300px">
-          <br><sub><b>Nitish Kumar</b></sub></a><br>💻 Front-End Boy
+          <br><sub><b>Nitish Kumar</b></sub></a><br>💻 Front-End Lad
         </td>
     </tr>
   </tbody>
